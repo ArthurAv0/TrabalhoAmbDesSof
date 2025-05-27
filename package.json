@@ -1,0 +1,23 @@
+{
+  "name": "jest2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "linter": "eslint . --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.27.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheustgcarvalho/Proj_Clear_Code.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/matheustgcarvalho/Proj_Clear_Code/issues"
+  },
+  "homepage": "https://github.com/matheustgcarvalho/Proj_Clear_Code#readme",
+  "description": ""
+}
